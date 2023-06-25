@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">pinia-plugin-persistedstate</h1>
-<p align="center">Configurable persistence and rehydration of Pinia stores.</p>
+<p align="center">Configurable persistence and rehydration of Pinia stores compatible with Firestore.</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/pinia-plugin-persistedstate">
