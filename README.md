@@ -6,7 +6,7 @@
   <i>Artwork from <a href="https://pinia.vuejs.org/">Pinia</a></i>
 </p>
 
-<h1 align="center">pinia-plugin-persistedstate</h1>
+<h1 align="center">pinia-plugin-persistedstate-firestore</h1>
 <p align="center">Configurable persistence and rehydration of Pinia stores compatible with Firestore.</p>
 
 <p align="center">
